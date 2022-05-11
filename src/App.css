@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+
+.image {
+  position: relative;
+
+}
+.image span {
+  position: absolute;
+  bottom: 9px;
+  left: 3px;
+  color:#bd1818;
+  text-shadow: #282c34;
+}
